@@ -1,6 +1,6 @@
 # UDP Notifier
 
-![App Screenshot](<link_for_your_image_here>)
+![App Screenshot](img/send.jpg)
 
 ## About
 
