@@ -1,7 +1,13 @@
 # UDP Notifier
 
-![App Screenshot](img/send.jpg)
+### Listen messages mode
 
+
+<img src="img/listen.jpg" alt="Listen mode" width="400">
+
+### Send messages mode  
+
+<img src="img/send.jpg" alt="Send mode" width="400">
 ## About
 
 UDP Notifier is a simple Android application that allows you to send and receive UDP messages over a network. It's a handy utility for testing UDP communication, debugging network applications, or creating simple notification systems.
